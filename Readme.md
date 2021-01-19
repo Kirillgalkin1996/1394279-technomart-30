@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Кирилл Галкин](https://up.htmlacademy.ru/htmlcss/30/user/1394279).
-* Наставник: [Александр Вестеровский](https://github.com/westerovs).
+* Наставник: [Иван Кривонос](https://github.com/ant1quar).
 
 ---
 
